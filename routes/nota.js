@@ -12,14 +12,14 @@ const notas = [
             { codigo: '2222', valor: 120 },
             { codigo: '2143', valor: 280 }
         ]
-    }, 
+    },
     {
         data: '2017-02-02',
         itens: [
             { codigo: '2143', valor: 110 },
             { codigo: '7777', valor: 390 }
         ]
-    },     
+    },
 ];
 
 module.exports = app => {
